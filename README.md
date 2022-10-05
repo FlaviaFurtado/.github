@@ -9,4 +9,7 @@ A página inicial é destinada aos funcionários para a realização do cadastro
 ## Página de criação:
 A página de criação serve para o funcionário criar uma ficha do cliente e dos seus pet.
 ![image](https://i.imgur.com/nW3yGoK.png)
+## Caso de Uso:
+O Diagrama de caso de uso descreve a proposta de funcionalidade do nosso programa. é uma excelente ferramenta para o levantamento dos requisitos funcionais do sistema.
+![image](https://imgur.com/a/5fiM5a4.png)
 
